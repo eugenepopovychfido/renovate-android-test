@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Renovate Android Test</string>
+    <string name="hello_message">Hello, Renovate!</string>
+</resources>
